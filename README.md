@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=F6C819&center=true&vCenter=true&width=550&lines=Hello+I'm+Mutlaq+%F0%9F%91%8B;AI+Engineer+%7C+M.S.+in+AI;Building+RAG+Bot%2C+MultiAgent_workflows%2C;From+Retrieval+to+autonomous+action!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=F6C819&center=true&vCenter=true&width=600&lines=Hello+I'm+Mutlaq+%F0%9F%91%8B;AI+Engineer+%7C+M.S.+in+AI;Building+RAG+Bot%2C+MultiAgent+Workflows;From+Retrieval+to+Autonomous+Action%21" alt="Typing SVG" />
 </p>
 
 Building **RAG pipelines, agentic bots, and domain-specialized LLM systems** for high-impact domains, such as **defense, healthcare, and enterprise AI**.
