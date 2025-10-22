@@ -1,34 +1,34 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=F6C819&center=true&vCenter=true&width=550&lines=Hello+I'm+Mutlaq+👋;LLM+Developer+%7C+AI+Researcher;Building+RAG+%2C+Agents+%2C+GraphRAG;Empowering+LLMs+to+Reason+and+Act!" alt="Typing SVG" />
+</p>
+
 # Hello, I'm Mutlaq
 
 <p align="center">
-  <em> LLM Developer | M.S. in AI Candidate</em>
+  <em> LLM Developer | M.S. in Artificial Intelligence(AI) </em>
 </p>
 
-I'm an AI enthusiast with 3+ years of experience, currently pursuing a Master's in Artificial Intelligence. Currently developing LLM-powered Web Applications for multiple niches, from medical to the  defence domain. My core research focus is on enhancing the retrieval performance of Large Language Models, particularly through innovative retrieval mechanisms like Hybrid RAG with Knowledge Graphs. I'm passionate about building impactful AI solutions across diverse domains.
-
----
+Building **RAG pipelines, agentic bots, and domain-specialized LLM systems** for high-impact domains, such as **defense, healthcare, and enterprise AI**.
 
 ### Core Focus & Expertise
 
 *   **LLM Research & Development:**
-    *   **Hybrid Retrieval:** Actively researching and developing Proof-of-Concepts (POCs) for Hybrid Retrieval systems, integrating Knowledge Graphs with RAG (GraphRAG) to boost retriever accuracy and contextual understanding.
-    *   **Domain-Specific RAG:** Experience building RAG pipelines for specialized sectors (e.g., Defence).
-    *   **LLM Applications:** Developed applications like Paraphrase Generation, and Behavioral Analysis of interview candidate tool.
+    *   **Hybrid Retrieval ChatBot:** Developing Hybrid RAG, integrating Multi-Modal Knowledge Graphs with RAG to improve context precision and reduce hallucinations. 
+    *   **Domain-Specific RAG:** Building end-to-end RAG pipelines in low-resource, domain-specific data (Defense, Healthcare).
+    *   **LLM Applications:** Delivered Full-stack LLM applications like Paraphrase Generation and Behavioral Analysis of the interview candidate tool.
 *   **Classical Machine Learning:**
-    *   Predictive Modeling (e.g., Loan Default Classification).
+    *   Predictive Modeling (Loan Default Classification).
     *   Regression Analysis & Web Application Deployment (e.g., Car Price Prediction Web App).
 *   **Computer Vision:**
-    *   Semantic Segmentation (e.g., Assembly Line Procedure Segmentation).
-    *   Biometric Application (e.g., Facial Recognition with Liveliness Detection).
+    *   Semantic Segmentation (Assembly Line Manufacturing Segmentation).
+    *   Biometric Application (Facial Recognition with Liveliness Detection).
 *   **Web Development:** Full-stack understanding to bring AI models to life.
-    *   Service and Blogging Site development (AIwithMtech)
-
----
+    *   Service and Blogging Site (AIwithMtech)
 
 ### Tech Stack Highlights
 
 <p align="left">
-  <!-- Customize these with your most proficient tools. Find icons on shields.io or similar -->
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -40,23 +40,19 @@ I'm an AI enthusiast with 3+ years of experience, currently pursuing a Master's 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
----
+### Featured Work  
 
 ### Currently Exploring
-
-*   Advanced techniques in RAG for enhancing the retriever module.
-*   Scalable LLM deployment with optimized inference pipelines.
-*   Evaluating and mitigating biases in Large Language Models.
-*   Multi-agent AI systems and autonomous tool integration.  
-
----
+- **Retriever Optimization**: Late-interaction models (ColBERT), query rewriting, and adaptive retrieval.
+- **Scalable LLM Serving**: vLLM, TensorRT-LLM, and quantization for cost-efficient inference, and cloud deployment.
+- **LLM-RL synergy**: Integrating LLMs with reinforcement learning, for planning and reasoning.
+- **Autonomous Agent Evaluation**: Designing benchmarks for tool use, planning, and error recovery.
 
 ### Let's Connect!
 
 *   **LinkedIn:** https://www.linkedin.com/in/-mutlaq/
-*   **Email:** mtechai111@gmail.com
 
-<!-- Optional: GitHub Stats -->
+<!-- GitHub Stats -->
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
