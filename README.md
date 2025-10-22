@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=F6C819&center=true&vCenter=true&width=550&lines=Hello+I'm+Mutlaq+👋;LLM+Developer+%7C+AI+Researcher;Building+RAG+%2C+Agents+%2C+GraphRAG;Empowering+LLMs+to+Reason+and+Act!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=F6C819&center=true&vCenter=true&width=550&lines=Hello+I'm+Mutlaq+%F0%9F%91%8B;LLM+Developer+%7C+M.S.+in+AI;Building+RAG%2C+Agents%2C+GraphRAG;Empowering+LLMs+to+Reason+and+Act!" alt="Typing SVG" />
 </p>
-
-# Hello, I'm Mutlaq
 
 <p align="center">
   <em> LLM Developer | M.S. in Artificial Intelligence(AI) </em>
