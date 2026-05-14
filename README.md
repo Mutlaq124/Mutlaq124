@@ -10,15 +10,6 @@ Generative AI Engineer • Agentic AI • Aerospace AI • Autonomous Systems
 Building reliable AI systems focused on retrieval, reasoning, orchestration, and real-world decision workflows.
 </p>
 
-<p align="center">
-  <a href="https://mutlaqai.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/-mutlaq/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-</p>
 
 ---
 
@@ -85,7 +76,6 @@ Open to impactful opportunities in Generative AI, Agentic Systems, AI Infrastruc
 
 ## Connect
 
-- Portfolio → https://mutlaqai.online
 - LinkedIn → https://www.linkedin.com/in/-mutlaq/
 
 ---
