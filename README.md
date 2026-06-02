@@ -72,13 +72,6 @@ Currently pursuing a **Master’s in Artificial Intelligence**, with research fo
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
-Open to impactful opportunities in Generative AI, Agentic Systems, AI Infrastructure, and Aerospace AI.
-
-## Connect
-
-- LinkedIn → https://www.linkedin.com/in/-mutlaq/
-
----
 
 <div align="center">
   <strong>Building intelligent systems that combine retrieval, reasoning, and autonomous decision-making.</strong>
